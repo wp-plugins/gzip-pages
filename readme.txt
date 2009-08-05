@@ -3,7 +3,7 @@ Contributors: Austin Matzko, filosofo
 Donate link: http://www.ilfilosofo.com/blog/2008/02/22/wordpress-gzip-plugin/
 Tags: gzip, compression, server
 Requires at least: 2.5
-Tested up to: 2.6
+Tested up to: 2.8.3
 Stable tag: 1.1
 
 Allow GZIPped output for your WordPress blog.  Restores functionality removed in WordPress 2.5.
